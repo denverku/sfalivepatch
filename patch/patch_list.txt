@@ -22,7 +22,7 @@
 22^MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser.zip.dfg^1605^2e178a0b
 23^MonoBleedingEdge/etc/mono/mconfig/config.xml.zip.dfg^25817^80b2033a
 24^SpecialForcePH_Data/app.info.zip.dfg^23^907a55e8
-25^SpecialForcePH_Data/boot.config.zip.dfg^164^d36f5e5f
+25^SpecialForcePH_Data/boot.config.zip.dfg^164^1bf79042
 26^SpecialForcePH_Data/globalgamemanagers.zip.dfg^72500^a26c2a83
 27^SpecialForcePH_Data/globalgamemanagers.assets.zip.dfg^167648^0b4bec58
 28^SpecialForcePH_Data/globalgamemanagers.assets.resS.zip.dfg^2796240^f2f0dff2
@@ -36,7 +36,7 @@
 36^SpecialForcePH_Data/level3.resS.zip.dfg^131232^4a354204
 37^SpecialForcePH_Data/level4.zip.dfg^1509740^b571323f
 38^SpecialForcePH_Data/level4.resS.zip.dfg^131232^831a9ee9
-39^SpecialForcePH_Data/level5.zip.dfg^1532380^d5d9a814
+39^SpecialForcePH_Data/level5.zip.dfg^1532380^3b0de685
 40^SpecialForcePH_Data/level5.resS.zip.dfg^131232^fda0376b
 41^SpecialForcePH_Data/level6.zip.dfg^1513364^d751d221
 42^SpecialForcePH_Data/level6.resS.zip.dfg^131232^6ba58708
